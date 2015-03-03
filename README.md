@@ -4,7 +4,7 @@
 #   - It requires that you edit the file and change HOST and USER.
 #   - This example assumes that you have setup SSH keys
 #
-#   Use the following syntz to run this example:
+#   Use the following syntax to run this example:
 #  
 #   ruby basic-ssh.rb
 #
